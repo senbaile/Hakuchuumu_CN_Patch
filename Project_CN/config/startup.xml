@@ -329,9 +329,10 @@
 	<wnd_alpha>1</wnd_alpha>
 	<view3d>0</view3d>
 	<sysv>0</sysv>
+  <!-- <sysconfig>1</sysconfig> -->
   </CONFIG_B>
 
-  <SOUNDCONFIG>config\soundconf.xml</SOUNDCONFIG>
+  <SOUNDCONFIG>soundconf.xml</SOUNDCONFIG>
 
   <SOUNDGROUP>
     <group00>
@@ -531,8 +532,7 @@
       <head>u</head>
       <group>2</group>
       <int>pcm_u</int>
-      <voice>出雲
-      </voice>
+      <voice>出雲</voice>
       <mastervol>100</mastervol>
     </v23>
     <v24 ch="V">
@@ -604,142 +604,142 @@
 
   <SYSTEMVOICE>
     <ch00>
-      <name>アリス</name>
+      <name>世凪</name>
       <play>1</play>
       <int>pcm_a</int>
     </ch00>
     <ch01>
-      <name>四五</name>
+      <name>凛</name>
       <play>1</play>
       <int>pcm_b</int>
     </ch01>
     <ch02>
-      <name>春</name>
+      <name>オリヴィア</name>
       <play>1</play>
       <int>pcm_c</int>
     </ch02>
     <ch03>
-      <name>ラビ</name>
+      <name>すもも</name>
       <play>1</play>
       <int>pcm_d</int>
     </ch03>
     <ch04>
-      <name>エミー</name>
+      <name>祥子</name>
       <play>1</play>
       <int>pcm_e</int>
     </ch04>
     <ch05>
-      <name></name>
+      <name>渡辺</name>
       <play>1</play>
       <int>pcm_f</int>
     </ch05>
     <ch06>
-      <name></name>
+      <name>スペンサー嵐山</name>
       <play>1</play>
       <int>pcm_g</int>
     </ch06>
     <ch07>
-      <name></name>
+      <name>スペンサー</name>
       <play>1</play>
       <int>pcm_h</int>
     </ch07>
     <ch08>
-      <name></name>
+      <name>父親</name>
       <play>1</play>
       <int>pcm_i</int>
     </ch08>
     <ch09>
-      <name></name>
+      <name>マーロウ</name>
       <play>1</play>
       <int>pcm_j</int>
     </ch09>
     <ch10>
-      <name></name>
+      <name>ロブ</name>
       <play>1</play>
       <int>pcm_k</int>
     </ch10>
     <ch11>
-      <name></name>
+      <name>エド</name>
       <play>1</play>
       <int>pcm_l</int>
     </ch11>
     <ch12>
-      <name></name>
+      <name>キキ</name>
       <play>1</play>
       <int>pcm_m</int>
     </ch12>
     <ch13>
-      <name></name>
+      <name>トーマス</name>
       <play>1</play>
       <int>pcm_n</int>
     </ch13>
     <ch14>
-      <name></name>
+      <name>エリザベス女王</name>
       <play>1</play>
       <int>pcm_o</int>
     </ch14>
     <ch15>
-      <name></name>
+      <name>梓姫</name>
       <play>1</play>
       <int>pcm_p</int>
     </ch15>
     <ch16>
-      <name></name>
+      <name>父</name>
       <play>1</play>
       <int>pcm_q</int>
     </ch16>
     <ch17>
-      <name></name>
+      <name>アンナ</name>
       <play>1</play>
       <int>pcm_r</int>
     </ch17>
     <ch18>
-      <name></name>
+      <name>里桜</name>
       <play>1</play>
       <int>pcm_s</int>
     </ch18>
     <ch19>
-      <name></name>
+      <name>親方</name>
       <play>1</play>
       <int>pcm_t</int>
     </ch19>
     <ch20>
-      <name></name>
+      <name>出雲</name>
       <play>1</play>
       <int>pcm_u</int>
     </ch20>
     <ch21>
-      <name></name>
+      <name>リープくん</name>
       <play>1</play>
       <int>pcm_v</int>
     </ch21>
     <ch22>
-      <name></name>
+      <name>遊馬</name>
       <play>1</play>
       <int>pcm_w</int>
     </ch22>
     <ch23>
-      <name></name>
+      <name>シャチ</name>
       <play>1</play>
       <int>pcm_x</int>
     </ch23>
     <ch24>
-      <name></name>
+      <name>入麻</name>
       <play>1</play>
       <int>pcm_y</int>
     </ch24>
     <ch25>
-      <name></name>
+      <name>母</name>
       <play>1</play>
       <int>pcm_z</int>
     </ch25>
     <ch26>
-      <name></name>
+      <name>男性</name>
       <play>1</play>
       <int>pcm_etc</int>
     </ch26>
     <ch27>
-      <name></name>
+      <name>女性</name>
       <play>1</play>
       <int>pcm_etc</int>
     </ch27>
