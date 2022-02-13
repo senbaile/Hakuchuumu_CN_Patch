@@ -809,7 +809,6 @@
       <int>image.int</int>
       <ext>hg3</ext>
       <dir>image</dir>
-      <dir>dira</dir>
     </int00>
     <int01>
       <name>kcs</name>
@@ -822,7 +821,6 @@
       <int>scene.int</int>
       <ext>cst</ext>
       <dir>scene</dir>
-      <dir>dira</dir>
     </int02>
     <int03>
       <name>kx2</name>
@@ -859,7 +857,6 @@
       <int>fes.int</int>
       <ext>fes</ext>
       <dir>fes</dir>
-      <dir>dira</dir>
     </int08>
 
     <int09>
@@ -892,7 +889,6 @@
       <int>config.int</int>
       <ext>xml</ext>
       <dir>config</dir>
-      <dir>dira</dir>
     </int13>
     <int14>
       <name>tag</name>
