@@ -6,6 +6,10 @@
   </GENERAL>
 
   <language>
+    <L00>
+      <code>1028</code>
+      <prefix>cn</prefix>
+    </L00>
   <OPTTABLE>language_cn.txt</OPTTABLE>
   </language>
   
