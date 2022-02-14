@@ -392,182 +392,182 @@
       <head>a</head>
       <group>2</group>
       <int>pcm_a</int>
-      <voice>世凪</voice>
+      <voice>$9999-0000$世凪</voice>
       <mastervol>100</mastervol>
     </v03>
     <v04 ch="B">
       <head>b</head>
       <group>2</group>
       <int>pcm_b</int>
-      <voice>凛</voice>
+      <voice>$9999-0001$凛</voice>
       <mastervol>100</mastervol>
     </v04>
     <v05 ch="C">
       <head>c</head>
       <group>2</group>
       <int>pcm_c</int>
-      <voice>オリヴィア</voice>
+      <voice>$9999-0002$オリヴィア</voice>
       <mastervol>100</mastervol>
     </v05>
     <v06 ch="D">
       <head>d</head>
       <group>2</group>
       <int>pcm_d</int>
-      <voice>すもも</voice>
+      <voice>$9999-0003$すもも</voice>
       <mastervol>100</mastervol>
     </v06>
     <v07 ch="E">
       <head>e</head>
       <group>2</group>
       <int>pcm_e</int>
-      <voice>祥子</voice>
+      <voice>$9999-0004$祥子</voice>
       <mastervol>100</mastervol>
     </v07>
     <v08 ch="F">
       <head>f</head>
       <group>2</group>
       <int>pcm_f</int>
-      <voice>渡辺</voice>
+      <voice>$9999-0005$渡辺</voice>
       <mastervol>100</mastervol>
     </v08>
     <v09 ch="G">
       <head>g</head>
       <group>2</group>
       <int>pcm_g</int>
-      <voice>スペンサー嵐山</voice>
+      <voice>$9999-0006$スペンサー嵐山</voice>
       <mastervol>100</mastervol>
     </v09>
     <v10 ch="H">
       <head>h</head>
       <group>2</group>
       <int>pcm_h</int>
-      <voice>スペンサー</voice>
+      <voice>$9999-0007$スペンサー</voice>
       <mastervol>100</mastervol>
     </v10>
     <v11 ch="I">
       <head>i</head>
       <group>2</group>
       <int>pcm_i</int>
-      <voice>父親</voice>
+      <voice>$9999-0008$父親</voice>
       <mastervol>100</mastervol>
     </v11>
     <v12 ch="J">
       <head>j</head>
       <group>2</group>
       <int>pcm_j</int>
-      <voice>マーロウ</voice>
+      <voice>$9999-0009$マーロウ</voice>
       <mastervol>100</mastervol>
     </v12>
     <v13 ch="K">
       <head>k</head>
       <group>2</group>
       <int>pcm_k</int>
-      <voice>ロブ</voice>
+      <voice>$9999-0010$ロブ</voice>
       <mastervol>100</mastervol>
     </v13>
     <v14 ch="L">
       <head>l</head>
       <group>2</group>
       <int>pcm_l</int>
-      <voice>エド</voice>
+      <voice>$9999-0011$エド</voice>
       <mastervol>100</mastervol>
     </v14>
     <v15 ch="M">
       <head>m</head>
       <group>2</group>
       <int>pcm_m</int>
-      <voice>キキ</voice>
+      <voice>$9999-0012$キキ</voice>
       <mastervol>100</mastervol>
     </v15>
     <v16 ch="N">
       <head>n</head>
       <group>2</group>
       <int>pcm_n</int>
-      <voice>トーマス</voice>
+      <voice>$9999-0013$トーマス</voice>
       <mastervol>100</mastervol>
     </v16>
     <v17 ch="O">
       <head>o</head>
       <group>2</group>
       <int>pcm_o</int>
-      <voice>エリザベス女王</voice>
+      <voice>$9999-0014$エリザベス女王</voice>
       <mastervol>100</mastervol>
     </v17>
     <v18 ch="P">
       <head>p</head>
       <group>2</group>
       <int>pcm_p</int>
-      <voice>梓姫</voice>
+      <voice>$9999-0015$梓姫</voice>
       <mastervol>100</mastervol>
     </v18>
     <v19 ch="Q">
       <head>q</head>
       <group>2</group>
       <int>pcm_q</int>
-      <voice>父</voice>
+      <voice>$9999-0016$父</voice>
       <mastervol>100</mastervol>
     </v19>
     <v20 ch="R">
       <head>r</head>
       <group>2</group>
       <int>pcm_r</int>
-      <voice>アンナ</voice>
+      <voice>$9999-0017$アンナ</voice>
       <mastervol>100</mastervol>
     </v20>
     <v21 ch="S">
       <head>s</head>
       <group>2</group>
       <int>pcm_s</int>
-      <voice>里桜</voice>
+      <voice>$9999-0018$里桜</voice>
       <mastervol>100</mastervol>
     </v21>
     <v22 ch="T">
       <head>ta</head>
       <group>2</group>
       <int>pcm_t</int>
-      <voice>親方</voice>
+      <voice>$9999-0019$親方</voice>
       <mastervol>100</mastervol>
     </v22>
     <v23 ch="U">
       <head>u</head>
       <group>2</group>
       <int>pcm_u</int>
-      <voice>出雲</voice>
+      <voice>$9999-0020$出雲</voice>
       <mastervol>100</mastervol>
     </v23>
     <v24 ch="V">
       <head>v</head>
       <group>2</group>
       <int>pcm_v</int>
-      <voice>リープくん</voice>
+      <voice>$9999-0021$リープくん</voice>
       <mastervol>100</mastervol>
     </v24>
     <v25 ch="W">
       <head>w</head>
       <group>2</group>
       <int>pcm_w</int>
-      <voice>遊馬</voice>
+      <voice>$9999-0022$遊馬</voice>
       <mastervol>100</mastervol>
     </v25>
     <v26 ch="X">
       <head>x</head>
       <group>2</group>
       <int>pcm_x</int>
-      <voice>シャチ</voice>
+      <voice>$9999-0023$シャチ</voice>
       <mastervol>100</mastervol>
     </v26>
     <v27 ch="Y">
       <head>y</head>
       <group>2</group>
       <int>pcm_y</int>
-      <voice>入麻</voice>
+      <voice>$9999-0024$入麻</voice>
       <mastervol>100</mastervol>
     </v27>
     <v28 ch="Z">
       <head>z</head>
       <group>2</group>
       <int>pcm_z</int>
-      <voice>母</voice>
+      <voice>$9999-0025$母</voice>
       <mastervol>100</mastervol>
     </v28>
     <v29 ch="XX">
@@ -736,12 +736,12 @@
     <ch26>
       <name>男性</name>
       <play>1</play>
-      <int>pcm_etc</int>
+      <int>pcm_xx</int>
     </ch26>
     <ch27>
       <name>女性</name>
       <play>1</play>
-      <int>pcm_etc</int>
+      <int>pcm_yy</int>
     </ch27>
     <ch28>
       <name></name>
@@ -1125,7 +1125,7 @@
 
   <KEYCUSTOMIZE>
     <key00>
-      <name>決定</name>
+      <name>$8001-0001$決定</name>
       <keyboard1>13</keyboard1>
       <keyboard2>90</keyboard2>
       <mouse1>1</mouse1>
@@ -1144,7 +1144,7 @@
       <rep_touch2>0</rep_touch2>
     </key00>
     <key01>
-      <name>キャンセル</name>
+      <name>$8001-0002$キャンセル</name>
       <keyboard1>27</keyboard1>
       <keyboard2>32</keyboard2>
       <mouse1>3</mouse1>
@@ -1163,7 +1163,7 @@
       <rep_touch2>0</rep_touch2>
     </key01>
     <key02>
-      <name>文章を進める</name>
+      <name>$8001-0003$文章を進める</name>
       <keyboard1>13</keyboard1>
       <keyboard2>90</keyboard2>
       <mouse1>1</mouse1>
@@ -1182,7 +1182,7 @@
       <rep_touch2>0</rep_touch2>
     </key02>
     <key03>
-      <name>メッセージウィンドウ消去</name>
+      <name>$8001-0004$メッセージウィンドウ消去</name>
       <keyboard1>27</keyboard1>
       <keyboard2>32</keyboard2>
       <mouse1>3</mouse1>
@@ -1201,7 +1201,7 @@
       <rep_touch2>0</rep_touch2>
     </key03>
     <key04>
-      <name>カーソル↑移動</name>
+      <name>$8001-0005$カーソル↑移動</name>
       <keyboard1>38</keyboard1>
       <keyboard2>104</keyboard2>
       <mouse1>0</mouse1>
@@ -1220,7 +1220,7 @@
       <rep_touch2>0</rep_touch2>
     </key04>
     <key05>
-      <name>カーソル↓移動</name>
+      <name>$8001-0006$カーソル↓移動</name>
       <keyboard1>40</keyboard1>
       <keyboard2>98</keyboard2>
       <mouse1>0</mouse1>
@@ -1239,7 +1239,7 @@
       <rep_touch2>0</rep_touch2>
     </key05>
     <key06>
-      <name>カーソル←移動</name>
+      <name>$8001-0007$カーソル←移動</name>
       <keyboard1>37</keyboard1>
       <keyboard2>100</keyboard2>
       <mouse1>0</mouse1>
@@ -1258,7 +1258,7 @@
       <rep_touch2>0</rep_touch2>
     </key06>
     <key07>
-      <name>カーソル→移動</name>
+      <name>$8001-0008$カーソル→移動</name>
       <keyboard1>39</keyboard1>
       <keyboard2>102</keyboard2>
       <mouse1>0</mouse1>
@@ -1277,7 +1277,7 @@
       <rep_touch2>0</rep_touch2>
     </key07>
     <key08>
-      <name>スクロール↑</name>
+      <name>$8001-0009$スクロール↑</name>
       <keyboard1>38</keyboard1>
       <keyboard2>104</keyboard2>
       <mouse1>6</mouse1>
@@ -1296,7 +1296,7 @@
       <rep_touch2>0</rep_touch2>
     </key08>
     <key09>
-      <name>スクロール↓</name>
+      <name>$8001-0010$スクロール↓</name>
       <keyboard1>40</keyboard1>
       <keyboard2>98</keyboard2>
       <mouse1>7</mouse1>
@@ -1315,7 +1315,7 @@
       <rep_touch2>0</rep_touch2>
     </key09>
     <key10>
-      <name>１ページ↑</name>
+      <name>$8001-0011$１ページ↑</name>
       <keyboard1>33</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>6</mouse1>
@@ -1334,7 +1334,7 @@
       <rep_touch2>0</rep_touch2>
     </key10>
     <key11>
-      <name>１ページ↓</name>
+      <name>$8001-0012$１ページ↓</name>
       <keyboard1>34</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>7</mouse1>
@@ -1353,7 +1353,7 @@
       <rep_touch2>0</rep_touch2>
     </key11>
     <key12>
-      <name>強制スキップ</name>
+      <name>$8001-0013$強制スキップ</name>
       <keyboard1>17</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1372,7 +1372,7 @@
       <rep_touch2>0</rep_touch2>
     </key12>
     <key13>
-      <name>既読スキップ</name>
+      <name>$8001-0014$既読スキップ</name>
       <keyboard1>0</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1391,7 +1391,7 @@
       <rep_touch2>0</rep_touch2>
     </key13>
     <key14>
-      <name>オートモード</name>
+      <name>$8001-0015$オートモード</name>
       <keyboard1>65</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1410,7 +1410,7 @@
       <rep_touch2>0</rep_touch2>
     </key14>
     <key15>
-      <name>履歴ウィンドウ</name>
+      <name>$8001-0016$履歴ウィンドウ</name>
       <keyboard1>33</keyboard1>
       <keyboard2>34</keyboard2>
       <mouse1>6</mouse1>
@@ -1429,7 +1429,7 @@
       <rep_touch2>0</rep_touch2>
     </key15>
     <key16>
-      <name>次の選択肢までスキップ</name>
+      <name>$8001-0017$次の選択肢までスキップ</name>
       <keyboard1>0</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1448,7 +1448,7 @@
       <rep_touch2>0</rep_touch2>
     </key16>
     <key17>
-      <name>前の選択肢に戻る</name>
+      <name>$8001-0018$前の選択肢に戻る</name>
       <keyboard1>0</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1467,7 +1467,7 @@
       <rep_touch2>0</rep_touch2>
     </key17>
     <key18>
-      <name>音声再生</name>
+      <name>$8001-0019$音声再生</name>
       <keyboard1>0</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1486,7 +1486,7 @@
       <rep_touch2>0</rep_touch2>
     </key18>
     <key19>
-      <name>セーブ画面</name>
+      <name>$8001-0020$セーブ画面</name>
       <keyboard1>117</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1505,7 +1505,7 @@
       <rep_touch2>0</rep_touch2>
     </key19>
     <key20>
-      <name>ロード画面</name>
+      <name>$8001-0021$ロード画面</name>
       <keyboard1>118</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1524,7 +1524,7 @@
       <rep_touch2>0</rep_touch2>
     </key20>
     <key21>
-      <name>クイックセーブ</name>
+      <name>$8001-0022$クイックセーブ</name>
       <keyboard1>112</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1543,7 +1543,7 @@
       <rep_touch2>0</rep_touch2>
     </key21>
     <key22>
-      <name>クイックロード</name>
+      <name>$8001-0023$クイックロード</name>
       <keyboard1>113</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1562,7 +1562,7 @@
       <rep_touch2>0</rep_touch2>
     </key22>
     <key23>
-      <name>環境設定</name>
+      <name>$8001-0024$環境設定</name>
       <keyboard1>0</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1582,7 +1582,7 @@
     </key23>
 
     <key24>
-      <name>オートスピードアップ</name>
+      <name>$8001-0025$オートスピードアップ</name>
       <keyboard1>0</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1601,7 +1601,7 @@
       <rep_touch2>0</rep_touch2>
     </key24>
     <key25>
-      <name>オートスピードダウン</name>
+      <name>$8001-0026$オートスピードダウン</name>
       <keyboard1>0</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1620,7 +1620,7 @@
       <rep_touch2>0</rep_touch2>
     </key25>
     <key26>
-      <name>スクリーンモード変更</name>
+      <name>$8001-0027$スクリーンモード変更</name>
       <keyboard1>0</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1639,7 +1639,7 @@
       <rep_touch2>0</rep_touch2>
     </key26>
     <key27>
-      <name>ウィンドウ最小化</name>
+      <name>$8001-0028$ウィンドウ最小化</name>
       <keyboard1>0</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
@@ -1658,7 +1658,7 @@
       <rep_touch2>0</rep_touch2>
     </key27>
     <key28>
-      <name>ゲーム終了</name>
+      <name>$8001-0029$ゲーム終了</name>
       <keyboard1>0</keyboard1>
       <keyboard2>0</keyboard2>
       <mouse1>0</mouse1>
