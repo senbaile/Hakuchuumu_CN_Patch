@@ -1,4 +1,8 @@
 ![kdyp](https://github.com/Dir-A/Hakuchuumu_CN_Patch/blob/main/kdyp.png)
+
+# 更新！！
+有热心网友补完HS部分的汉化，请转到[-Cyanotype_Daydream_H_part_Chinesize](https://github.com/KBplayEnthusiast/-Cyanotype_Daydream_H_part_Chinesize)
+
 # 简介
 本补丁移植官中文本及UI图片至日文版（ver.1.2）  
 仅测试通过性（正常全程游玩），未测试文本逻辑及BUG  
